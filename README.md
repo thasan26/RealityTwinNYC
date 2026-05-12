@@ -2,7 +2,8 @@
 
 ## AI-Powered Urban Mobility, Transit & Infrastructure Intelligence Platform
 
-![RealityTwin NYC Home](<img width="2877" height="1793" alt="Screenshot 2026-05-12 034155" src="https://github.com/user-attachments/assets/62b87781-8b0b-47e5-8dee-f06d63a52172" />
+![RealityTwin NYC Home] "<img width="2777" height="1470" alt="Screenshot 2026-05-12 041629" src="https://github.com/user-attachments/assets/c97232c1-9bee-41cb-8525-7d7c07a69e37" />"
+
 )
 
 RealityTwin NYC is a smart city simulation platform that models how pressure spreads across New York City’s transportation and infrastructure systems.
