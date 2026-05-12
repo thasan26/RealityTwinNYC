@@ -175,3 +175,5 @@ The goal is to show how computer science can support real-world city operations 
 cd frontend
 npm install
 npm run dev
+
+Open Local Host
