@@ -2,9 +2,8 @@
 
 ## AI-Powered Urban Mobility, Transit & Infrastructure Intelligence Platform
 
-![RealityTwin NYC Home] "<img width="2777" height="1470" alt="Screenshot 2026-05-12 041629" src="https://github.com/user-attachments/assets/c97232c1-9bee-41cb-8525-7d7c07a69e37" />"
+![RealityTwin NYC Home] "<img width="2777" height="1470" alt="Screenshot 2026-05-12 041629" src="https://github.com/user-attachments/assets/c97232c1-9bee-41cb-8525-7d7c07a69e37" />
 
-)
 
 RealityTwin NYC is a smart city simulation platform that models how pressure spreads across New York City’s transportation and infrastructure systems.
 
@@ -36,8 +35,8 @@ RealityTwin NYC was created to explore one question:
 ### NYC Operations Stress Score
 A live-style city stress score that summarizes pressure across transit, roads, weather, crowd movement, and emergency routing.
 
-![Operations Stress Score](<img width="2802" height="1451" alt="Screenshot 2026-05-12 041708" src="https://github.com/user-attachments/assets/3d1493e6-96b4-4c2b-be7f-39dd284d3290" />
-)
+![Operations Stress Score] "<img width="1415" height="1014" alt="image" src="https://github.com/user-attachments/assets/636078d4-c363-4b0e-be1f-2a824fef5619" />
+
 
 ---
 
@@ -49,8 +48,8 @@ A visual infrastructure layer for major city systems including:
 - DOT Bridge & Road Grid
 - NYC Flood & Weather Risk
 
-![Infrastructure Layer](<img width="2802" height="1451" alt="Screenshot 2026-05-12 041708" src="https://github.com/user-attachments/assets/c0f34138-9486-4097-b488-0c0d23402ebd" />
-)
+![Infrustructure Operation Layer] "<img width="2802" height="1451" alt="Screenshot 2026-05-12 041708" src="https://github.com/user-attachments/assets/c3c0ac6e-2160-4006-9780-acf37e68bb12" />
+
 
 ---
 
@@ -61,8 +60,7 @@ Included subway lines:
 
 A/C/E · B/D/F/M · N/Q/R/W · 1/2/3 · 4/5/6/7 · L
 
-![Subway Pulse](<img width="2789" height="1445" alt="Screenshot 2026-05-12 041725" src="https://github.com/user-attachments/assets/73e2cb14-a47c-4a0b-a68b-8c936a6dab8b" />
-)
+![Subway Pulse] "<img width="2789" height="1445" alt="Screenshot 2026-05-12 041725" src="https://github.com/user-attachments/assets/278e59df-11c2-434c-b078-ea71edf1b08f" />
 
 ---
 
@@ -75,8 +73,8 @@ A dashboard showing key infrastructure indicators:
 - Crowd Pressure
 - Emergency Routing
 
-![Dashboard](<img width="2787" height="1452" alt="Screenshot 2026-05-12 041744" src="https://github.com/user-attachments/assets/d8b5b007-0a09-4498-a5a2-a672ac2d7e8f" />
-)
+![Dashboard] "<img width="2787" height="1452" alt="Screenshot 2026-05-12 041744" src="https://github.com/user-attachments/assets/12ff474d-a9e6-4339-b27a-cd1fc43d4670" />
+
 
 ---
 
@@ -89,8 +87,8 @@ A borough-level stress visualization for:
 - Bronx
 - Staten Island
 
-![Borough Stress Map](<img width="2794" height="1435" alt="Screenshot 2026-05-12 041809" src="https://github.com/user-attachments/assets/a45f9bdb-8ac7-4b31-a452-657e441ebc14" />
-)
+![Borough Stress Map] "<img width="2794" height="1435" alt="Screenshot 2026-05-12 041809" src="https://github.com/user-attachments/assets/a45f9bdb-8ac7-4b31-a452-657e441ebc14" />
+
 
 ---
 
@@ -102,16 +100,16 @@ Users can test disruption scenarios such as:
 - Major Event at MSG
 - Bridge Traffic Incident
 
-![Simulation Engine](<img width="2788" height="1475" alt="Screenshot 2026-05-12 041827" src="https://github.com/user-attachments/assets/a0e35c2c-0299-42d9-90d0-a7e82e3380bd" />
-)
+![Simulation Engine] "<img width="2788" height="1475" alt="Screenshot 2026-05-12 041827" src="https://github.com/user-attachments/assets/a0e35c2c-0299-42d9-90d0-a7e82e3380bd" />
+
 
 ---
 
 ### AI Operations Insights
 The platform generates agency-style recommendations based on simulated urban conditions.
 
-![AI Operations Insight](<img width="2779" height="1478" alt="Screenshot 2026-05-12 041854" src="https://github.com/user-attachments/assets/9d83c62b-1576-4dbe-b981-faa35f007881" />
-)
+![AI Operations Insight] "<img width="2779" height="1478" alt="Screenshot 2026-05-12 041854" src="https://github.com/user-attachments/assets/9d83c62b-1576-4dbe-b981-faa35f007881" />
+
 
 ---
 
